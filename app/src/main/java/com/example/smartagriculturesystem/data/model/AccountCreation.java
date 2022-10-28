@@ -33,7 +33,6 @@ public class AccountCreation extends AppCompatActivity{
     //Declaring buttons and EdiTexts
     private Button createAccount;
     private EditText firstName,lastName,emailAddress,passwordCreate,confirmPassword,userName;
-    private int spinnerPos;
 
 
     @Override
@@ -84,7 +83,7 @@ public class AccountCreation extends AppCompatActivity{
             if(!isEmpty(firstName) && !isEmpty(lastName) && !isEmpty(emailAddress) && !isEmpty(passwordCreate) && !isEmpty(confirmPassword) && !isEmpty(userName)){
                 if(validEmail(emailAddress)){
                     if(validUsername(userName)){
-                        if(uniqueUsername(userName,spinnerPos)){
+                        if(uniqueUsername(userName)){
                             if(isMatch(passwordCreate,confirmPassword)){
                                 createAccount.setEnabled(true);
                             }
@@ -127,9 +126,9 @@ public class AccountCreation extends AppCompatActivity{
     }
 
 
-    public boolean uniqueUsername(EditText editText,int search){
+    public boolean uniqueUsername(EditText editText){
 
-        String username = editText.getText().toString().trim();
+        String userName = editText.getText().toString().trim();
 
         }
     }
