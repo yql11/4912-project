@@ -31,7 +31,7 @@ autostart:
 
 For DHT11 sensor:
 
-	pip install adafruit-circuitpython-dht
+	pip3 install adafruit-circuitpython-dht
 	sudo apt-get install libgpiod2
 
 For Pi camera:
