@@ -23,12 +23,14 @@ Don't forget change the configuration
   reboot
 
 autostart:
-  	sudo systemctl enable gpsd.socket
-  	sudo systemctl start gpsd.socket
+
+	sudo systemctl enable gpsd.socket
+	sudo systemctl start gpsd.socket
 
   	sudo gpsd /dev/serial0 -F /var/run/gpsd.socket
 
 For DHT11 sensor:
+
 	pip install adafruit-circuitpython-dht
 	sudo apt-get install libgpiod2
 
