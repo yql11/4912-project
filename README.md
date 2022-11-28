@@ -8,13 +8,13 @@ Here are the command need to run after you have installed python3 and pip:
 
 For GPS  module:
 
-  sudo apt-get install minicom -y
-  sudo apt-get install screen
-  sudo apt-get install gpsd-clients gpsd -y
+	sudo apt-get install minicom -y
+	sudo apt-get install screen
+	sudo apt-get install gpsd-clients gpsd -y
 
 Don't forget change the configuration
 
-  sudo nano /etc/default/gpsd:
+  	sudo nano /etc/default/gpsd:
 
   Look for DEVICES=""
 
@@ -23,26 +23,23 @@ Don't forget change the configuration
   reboot
 
 autostart:
-  sudo systemctl enable gpsd.socket
-  sudo systemctl start gpsd.socket
+  	sudo systemctl enable gpsd.socket
+  	sudo systemctl start gpsd.socket
 
-  sudo gpsd /dev/serial0 -F /var/run/gpsd.socket
+  	sudo gpsd /dev/serial0 -F /var/run/gpsd.socket
 
 For DHT11 sensor:
-
-	  pip install adafruit-circuitpython-dht
-	  sudo apt-get install libgpiod2
+	pip install adafruit-circuitpython-dht
+	sudo apt-get install libgpiod2
 
 For Pi camera:
 
   	sudo apt install -y python3-libcamera python3-kms++
   	sudo apt install -y python3-prctl libatlas-base-dev ffmpeg python3-pip
-  
-  	sudo apt install -y python3-pyqt5 python3-opengl # only if you want GUI features
-  
-	pip3 install numpy --upgrade
-
- 	 pip3 install picamera2
+	sudo apt install -y python3-pyqt5 python3-opengl # only if you want GUI features
+  	pip3 install numpy --upgrade
+	
+	pip3 install picamera2
 
 
 
