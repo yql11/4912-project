@@ -38,7 +38,8 @@ For Pi camera:
   sudo apt install -y python3-libcamera python3-kms++
   sudo apt install -y python3-prctl libatlas-base-dev ffmpeg python3-pip
   sudo apt install -y python3-pyqt5 python3-opengl # only if you want GUI features
-  pip3 install numpy --upgrade
+  
+	pip3 install numpy --upgrade
 
   pip3 install picamera2
 
