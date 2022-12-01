@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">smart_agriculture_sys</string>
+    <string name="temperature_and_humidity">temperature_and_humidity</string>
+    <string name="gps">gps</string>
+    <string name="refresh">Refresh</string>
+    <string name="todo">TODO</string>
+    <string name="image" />
+    <string name="back">back</string>
+    <string name="create_an_account" />
+    <string name="password" />
+    <string name="confirm_password" />
+    <string name="last_name" />
+    <string name="email_address" />
+    <string name="create_account" />
+    <string name="first_name" />
+    <string name="username" />
+    <string name="welcome_please_enter_following_information_to_create_your_account">Welcome! Please enter following information to create your account.</string>
+    <string name="create">Create</string>
+</resources>
