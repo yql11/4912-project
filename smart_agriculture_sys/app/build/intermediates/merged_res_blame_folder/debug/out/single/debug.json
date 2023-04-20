@@ -1,94 +1,106 @@
 [
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_video.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_video.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_accoutcreation.xml.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_accoutcreation.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_redirect_to_login.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_redirect_to_login.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_image.xml.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_image.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_redirect_to_login.xml.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_redirect_to_login.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.smart_agriculture_sys.app-merged_res-34:/layout_activity_main.xml.flat",
-        "source": "com.example.smart_agriculture_sys.app-main-36:/layout/activity_main.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_functional_page.xml.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_functional_page.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_accoutcreation.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_accoutcreation.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\drawable\\border.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_createaccount.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_createaccount.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_border.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\layout\\border.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.4\\com.example.smart_agriculture_sys.app-main-36:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_functional_page.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_functional_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-merged_res-34:\\layout_activity_loginpage.xml.flat",
+        "source": "C:\\Users\\nealf\\.gradle\\daemon\\7.5\\com.example.smart_agriculture_sys.app-main-36:\\layout\\activity_loginpage.xml"
     }
 ]

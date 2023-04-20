@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">smart_agriculture_sys</string>
     <string name="back">back</string>
+    <string name="compare_data">Compare Data</string>
     <string name="confirm_password"/>
     <string name="create">Create</string>
     <string name="create_account"/>
@@ -28,10 +29,13 @@
     <string name="password"/>
     <string name="project_id" translatable="false">smart-farm-21a6e</string>
     <string name="refresh">Refresh</string>
+    <string name="save_data">Save Data</string>
     <string name="temperature_and_humidity">temperature_and_humidity</string>
     <string name="todo">TODO</string>
     <string name="username"/>
     <string name="welcome_please_enter_following_information_to_create_your_account">Welcome! Please enter following information to create your account.</string>
+    <string name="welcome_select_one_of_the_function_below">Welcome! Select one of the function below.</string>
+    <string name="withdraw_data">Withdraw Data</string>
     <style name="Theme.Smart_agriculture_sys" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

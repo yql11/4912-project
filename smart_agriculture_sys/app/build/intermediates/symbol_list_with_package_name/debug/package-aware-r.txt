@@ -2561,6 +2561,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable border
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2725,7 +2726,6 @@ id accessibility_custom_action_6
 id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
-id account_creation
 id actionDown
 id actionDownUp
 id actionUp
@@ -2802,9 +2802,9 @@ id clip_vertical
 id clockwise
 id closest
 id collapseActionView
-id compare_button
 id compress
 id confirm_button
+id confirm_password_text
 id constraint
 id container
 id content
@@ -2815,6 +2815,7 @@ id coordinator
 id cos
 id counterclockwise
 id cradle
+id create_account_button
 id currentState
 id custom
 id customPanel
@@ -2825,7 +2826,6 @@ id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
-id delete_button
 id deltaRelative
 id dependency_ordering
 id design_bottom_sheet
@@ -2856,7 +2856,7 @@ id easeOut
 id east
 id edit_query
 id elastic
-id email_address
+id email_text
 id embed
 id end
 id endToStart
@@ -2870,7 +2870,6 @@ id fill
 id fill_horizontal
 id fill_vertical
 id filled
-id first_name
 id fitCenter
 id fitEnd
 id fitStart
@@ -2888,6 +2887,7 @@ id ghost_view_holder
 id glide_custom_view_target_tag
 id gone
 id gps
+id gpstext
 id graph
 id graph_wrap
 id group_divider
@@ -2918,7 +2918,6 @@ id item_touch_helper_previous_elevation
 id jumpToEnd
 id jumpToStart
 id labeled
-id last_name
 id layout
 id left
 id leftToRight
@@ -2930,6 +2929,8 @@ id linear
 id listMode
 id list_item
 id login
+id login_button
+id logout_button
 id marquee
 id masked
 id match_constraint
@@ -3017,13 +3018,12 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
-id password
+id password_text
 id password_toggle
 id path
 id pathRelative
 id peekHeight
 id percent
-id photo
 id pin
 id position
 id postLayout
@@ -3101,6 +3101,7 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
+id success_message_text
 id supportScrollUp
 id tabMode
 id tag_accessibility_actions
@@ -3117,6 +3118,7 @@ id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
 id temperature_and_humidity
+id temperature_and_humidity_text
 id text
 id text2
 id textEnd
@@ -3155,7 +3157,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
-id username
+id username_text
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -3300,9 +3302,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_accoutcreation
+layout activity_createaccount
 layout activity_functional_page
-layout activity_login
+layout activity_loginpage
 layout activity_main
 layout activity_redirect_to_login
 layout custom_dialog
@@ -3442,6 +3444,7 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string compare_data
 string confirm_password
 string create
 string create_account
@@ -3561,12 +3564,15 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string project_id
 string refresh
+string save_data
 string search_menu_title
 string status_bar_notification_info_overflow
 string temperature_and_humidity
 string todo
 string username
 string welcome_please_enter_following_information_to_create_your_account
+string welcome_select_one_of_the_function_below
+string withdraw_data
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
