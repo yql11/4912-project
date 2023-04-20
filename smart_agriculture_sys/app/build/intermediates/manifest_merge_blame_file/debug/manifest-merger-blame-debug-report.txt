@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+8-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+9-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:4:5-66
-11-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:4:22-64
+11-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:4:5-66
+11-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:4:22-64
 12
 13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
@@ -21,59 +21,59 @@
 15-->[com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:24:22-76
 16
 17    <application
-17-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:5:5-30:19
+17-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:5:5-30:19
 18        android:allowBackup="true"
-18-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:6:9-35
+18-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.8.0] C:\Users\nealf\.gradle\caches\transforms-3\e0df3e6f8a443076d4da40a887d88364\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:7:9-65
+20-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:fullBackupContent="@xml/backup_rules"
-22-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:8:9-54
+22-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:8:9-54
 23        android:icon="@mipmap/ic_launcher"
-23-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:9:9-43
+23-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:9:9-43
 24        android:label="@string/app_name"
-24-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:10:9-41
+24-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:10:9-41
 25        android:roundIcon="@mipmap/ic_launcher_round"
-25-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:11:9-54
+25-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:11:9-54
 26        android:supportsRtl="true"
-26-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:12:9-35
+26-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:12:9-35
 27        android:testOnly="true"
 28        android:theme="@style/Theme.Smart_agriculture_sys" >
-28-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:13:9-59
+28-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:13:9-59
 29        <activity
-29-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:15:9-24:20
+29-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:15:9-24:20
 30            android:name="com.example.smart_agriculture_sys.MainActivity"
-30-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:16:13-74
+30-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:16:13-74
 31            android:exported="true" >
-31-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:17:13-36
+31-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:17:13-36
 32            <intent-filter>
-32-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:18:13-23:29
+32-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:18:13-23:29
 33                <action android:name="android.intent.action.MAIN" />
-33-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:19:17-69
-33-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:19:25-66
+33-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:19:17-69
+33-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:19:25-66
 34
 35                <category android:name="android.intent.category.DEFAULT" />
-35-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:20:17-76
-35-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:20:27-73
+35-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:20:17-76
+35-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:20:27-73
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:22:17-77
-36-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:22:27-74
+36-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:22:17-77
+36-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:22:27-74
 37            </intent-filter>
 38        </activity>
 39        <activity android:name="com.example.smart_agriculture_sys.AccountCreation" />
-39-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:25:9-52
-39-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:25:19-50
+39-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:25:9-52
+39-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:25:19-50
 40        <activity android:name="com.example.smart_agriculture_sys.Redirecttologin" />
-40-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:26:9-52
-40-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:26:19-50
+40-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:26:9-52
+40-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:26:19-50
 41        <activity android:name="com.example.smart_agriculture_sys.FunctionalApplication" />
-41-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:27:9-58
-41-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:27:19-56
+41-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:27:9-58
+41-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:27:19-56
 42        <activity android:name="com.example.smart_agriculture_sys.Withdrawdata" />
-42-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:28:9-49
-42-->E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:28:19-47
+42-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:28:9-49
+42-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:28:19-47
 43
 44        <service
 44-->[com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:28:9-34:19

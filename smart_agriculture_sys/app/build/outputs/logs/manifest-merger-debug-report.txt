@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\nealf\.gradle\caches\transforms-3\1a2acf0d63afa69e064b23b5b246e655\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\nealf\.gradle\caches\transforms-3\c822ed952c6870ebd224929c9635a675\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\nealf\.gradle\caches\transforms-3\d659975737461acc338e1e5e971698cd\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
@@ -57,35 +57,35 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nealf\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nealf\.gradle\caches\transforms-3\e6e6381cf5d0e7c40a2b2167dc30d4d8\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\nealf\.gradle\caches\transforms-3\fc8661bc409c21bee86059d2953ceda1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nealf\.gradle\caches\transforms-3\bd523e4c5f7e508b8f0e9033e7e8d546\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
 	package
-		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
-		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
-		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
-		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:4:5-66
+ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:4:5-66
 MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\22dd61885f0b22ddef29ae6f24b59d33\transformed\firebase-storage-20.1.0\AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\22dd61885f0b22ddef29ae6f24b59d33\transformed\firebase-storage-20.1.0\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:5:5-30:19
+ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:5:5-30:19
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\nealf\.gradle\caches\transforms-3\1a2acf0d63afa69e064b23b5b246e655\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\nealf\.gradle\caches\transforms-3\1a2acf0d63afa69e064b23b5b246e655\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\nealf\.gradle\caches\transforms-3\c822ed952c6870ebd224929c9635a675\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -123,63 +123,63 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ne
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\nealf\.gradle\caches\transforms-3\e0df3e6f8a443076d4da40a887d88364\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:8:9-54
 	android:roundIcon
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:11:9-54
 	tools:targetApi
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:14:9-29
 	android:icon
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:13:9-59
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:13:9-59
 	android:dataExtractionRules
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:7:9-65
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:7:9-65
 activity#com.example.smart_agriculture_sys.MainActivity
-ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:15:9-24:20
+ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:15:9-24:20
 	android:exported
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:17:13-36
 	android:name
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:16:13-74
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:16:13-74
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
-ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:18:13-23:29
+ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:18:13-23:29
 action#android.intent.action.MAIN
-ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.DEFAULT
-ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:20:17-76
+ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:20:17-76
 	android:name
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:20:27-73
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:20:27-73
 category#android.intent.category.LAUNCHER
-ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:22:27-74
 activity#com.example.smart_agriculture_sys.AccountCreation
-ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:25:9-52
+ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:25:9-52
 	android:name
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:25:19-50
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:25:19-50
 activity#com.example.smart_agriculture_sys.Redirecttologin
-ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:26:9-52
+ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:26:9-52
 	android:name
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:26:19-50
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:26:19-50
 activity#com.example.smart_agriculture_sys.FunctionalApplication
-ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:27:9-58
+ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:27:9-58
 	android:name
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:27:19-56
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:27:19-56
 activity#com.example.smart_agriculture_sys.Withdrawdata
-ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:28:9-49
+ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:28:9-49
 	android:name
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:28:19-47
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:28:19-47
 uses-sdk
-INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
-INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\nealf\.gradle\caches\transforms-3\1a2acf0d63afa69e064b23b5b246e655\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\nealf\.gradle\caches\transforms-3\1a2acf0d63afa69e064b23b5b246e655\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\nealf\.gradle\caches\transforms-3\c822ed952c6870ebd224929c9635a675\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
@@ -286,16 +286,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\nealf\.gradle\caches\transform
 MERGED from [androidx.print:print:1.0.0] C:\Users\nealf\.gradle\caches\transforms-3\fc8661bc409c21bee86059d2953ceda1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nealf\.gradle\caches\transforms-3\bd523e4c5f7e508b8f0e9033e7e8d546\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\nealf\.gradle\caches\transforms-3\bd523e4c5f7e508b8f0e9033e7e8d546\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
-INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
-		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
-		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+		ADDED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-storage:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\22dd61885f0b22ddef29ae6f24b59d33\transformed\firebase-storage-20.1.0\AndroidManifest.xml:25:5-79

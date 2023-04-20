@@ -26,12 +26,12 @@ com.example.smart_agriculture_sys.app-core-1.8.0-24 C:\Users\nealf\.gradle\cache
 com.example.smart_agriculture_sys.app-lifecycle-livedata-core-2.5.1-25 C:\Users\nealf\.gradle\caches\transforms-3\e498a483e9148fb9f5c7f2da8e20e7f1\transformed\lifecycle-livedata-core-2.5.1\res
 com.example.smart_agriculture_sys.app-drawerlayout-1.1.1-26 C:\Users\nealf\.gradle\caches\transforms-3\f3499c83733641f6280711e5f2867954\transformed\drawerlayout-1.1.1\res
 com.example.smart_agriculture_sys.app-play-services-basement-18.1.0-27 C:\Users\nealf\.gradle\caches\transforms-3\fab66bed9b33b2e4d61eb21a1ef36d84\transformed\play-services-basement-18.1.0\res
-com.example.smart_agriculture_sys.app-google-services-28 E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\build\generated\res\google-services\debug
-com.example.smart_agriculture_sys.app-pngs-29 E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\build\generated\res\pngs\debug
-com.example.smart_agriculture_sys.app-resValues-30 E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\build\generated\res\resValues\debug
-com.example.smart_agriculture_sys.app-rs-31 E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\build\generated\res\rs\debug
-com.example.smart_agriculture_sys.app-packageDebugResources-32 E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.smart_agriculture_sys.app-packageDebugResources-33 E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.smart_agriculture_sys.app-merged_res-34 E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\build\intermediates\merged_res\debug
-com.example.smart_agriculture_sys.app-debug-35 E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\debug\res
-com.example.smart_agriculture_sys.app-main-36 E:\Study\UOttawa\eighth year\CEG4912\project\smart_agriculture_sys\app\src\main\res
+com.example.smart_agriculture_sys.app-google-services-28 E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\build\generated\res\google-services\debug
+com.example.smart_agriculture_sys.app-pngs-29 E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\build\generated\res\pngs\debug
+com.example.smart_agriculture_sys.app-resValues-30 E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\build\generated\res\resValues\debug
+com.example.smart_agriculture_sys.app-rs-31 E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\build\generated\res\rs\debug
+com.example.smart_agriculture_sys.app-packageDebugResources-32 E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.smart_agriculture_sys.app-packageDebugResources-33 E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.smart_agriculture_sys.app-merged_res-34 E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\build\intermediates\merged_res\debug
+com.example.smart_agriculture_sys.app-debug-35 E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\debug\res
+com.example.smart_agriculture_sys.app-main-36 E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\res

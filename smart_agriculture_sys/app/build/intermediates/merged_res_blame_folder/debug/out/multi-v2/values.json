@@ -4,6 +4,23 @@
             "outputFile": "com.example.smart_agriculture_sys.app-mergeDebugResources-32:/values/values.xml",
             "map": [
                 {
+                    "source": "E:\\Study\\UOttawa\\eighth year\\CEG4912\\project\\4912-project\\smart_agriculture_sys\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "286,55,102,149,196,241,328",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "323,97,144,191,236,281,365"
+                    },
+                    "to": {
+                        "startLines": "611,843,844,845,856,857,860",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "31106,47835,47882,47929,48673,48718,48884",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "31143,47877,47924,47971,48713,48758,48921"
+                    }
+                },
+                {
                     "source": "C:\\Users\\nealf\\.gradle\\caches\\transforms-3\\fab66bed9b33b2e4d61eb21a1ef36d84\\transformed\\play-services-basement-18.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -18,6 +35,23 @@
                         "startOffsets": "99414,108800",
                         "endColumns": "67,166",
                         "endOffsets": "99477,108962"
+                    }
+                },
+                {
+                    "source": "E:\\Study\\UOttawa\\eighth year\\CEG4912\\project\\4912-project\\smart_agriculture_sys\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,7,20,10,17,13,8,12,14,3,6,11,9,4,19,2,5,15,16,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "16,299,980,408,778,515,337,479,552,153,271,447,377,189,932,75,233,585,616,820,1034",
+                        "endColumns": "58,37,53,38,41,36,39,35,32,35,27,31,30,43,47,77,37,30,161,111,55",
+                        "endOffsets": "70,332,1029,442,815,547,372,510,580,184,294,474,403,228,975,148,266,611,773,927,1085"
+                    },
+                    "to": {
+                        "startLines": "1700,1702,1731,1732,1733,1734,1735,1737,1746,1752,1755,1757,1851,1858,1859,1862,1863,1864,1865,1866,1867",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "106047,106256,110093,110147,110185,110227,110263,110446,111233,111780,112123,112209,125770,126679,126723,126895,126973,127011,127041,127203,127315",
+                        "endColumns": "58,37,53,37,41,35,38,34,31,35,26,30,29,43,47,77,37,29,161,111,55",
+                        "endOffsets": "106101,106289,110142,110180,110222,110258,110297,110476,111260,111811,112145,112235,125795,126718,126766,126968,127006,127036,127198,127310,127366"
                     }
                 },
                 {
@@ -37,76 +71,6 @@
                         "endLines": "479,1005,1006,1007,1015,1016,1017,1526,11773",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "24097,58532,58580,58636,59322,59398,59470,95573,691315"
-                    }
-                },
-                {
-                    "source": "E:\\Study\\UOttawa\\eighth year\\CEG4912\\project\\smart_agriculture_sys\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,323,405,509,618,738,838",
-                        "endColumns": "143,123,81,103,108,119,99,76",
-                        "endOffsets": "194,318,400,504,613,733,833,910"
-                    },
-                    "to": {
-                        "startLines": "1736,1745,1747,1748,1749,1750,1751,1857",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "110302,111109,111265,111347,111451,111560,111680,126602",
-                        "endColumns": "143,123,81,103,108,119,99,76",
-                        "endOffsets": "110441,111228,111342,111446,111555,111675,111775,126674"
-                    }
-                },
-                {
-                    "source": "E:\\Study\\UOttawa\\eighth year\\CEG4912\\project\\smart_agriculture_sys\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "810"
-                    },
-                    "to": {
-                        "startLines": "6039",
-                        "startColumns": "4",
-                        "startOffsets": "413700",
-                        "endLines": "6051",
-                        "endColumns": "12",
-                        "endOffsets": "414289"
-                    }
-                },
-                {
-                    "source": "E:\\Study\\UOttawa\\eighth year\\CEG4912\\project\\smart_agriculture_sys\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,7,20,10,17,13,8,12,14,3,6,11,9,4,19,2,5,15,16,18,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "16,299,980,408,778,515,337,479,552,153,271,447,377,189,932,75,233,585,616,820,1034",
-                        "endColumns": "58,37,53,38,41,36,39,35,32,35,27,31,30,43,47,77,37,30,161,111,55",
-                        "endOffsets": "70,332,1029,442,815,547,372,510,580,184,294,474,403,228,975,148,266,611,773,927,1085"
-                    },
-                    "to": {
-                        "startLines": "1700,1702,1731,1732,1733,1734,1735,1737,1746,1752,1755,1757,1851,1858,1859,1862,1863,1864,1865,1866,1867",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "106047,106256,110093,110147,110185,110227,110263,110446,111233,111780,112123,112209,125770,126679,126723,126895,126973,127011,127041,127203,127315",
-                        "endColumns": "58,37,53,37,41,35,38,34,31,35,26,30,29,43,47,77,37,29,161,111,55",
-                        "endOffsets": "106101,106289,110142,110180,110222,110258,110297,110476,111260,111811,112145,112235,125795,126718,126766,126968,127006,127036,127198,127310,127366"
-                    }
-                },
-                {
-                    "source": "E:\\Study\\UOttawa\\eighth year\\CEG4912\\project\\smart_agriculture_sys\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "286,55,102,149,196,241,328",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "323,97,144,191,236,281,365"
-                    },
-                    "to": {
-                        "startLines": "611,843,844,845,856,857,860",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "31106,47835,47882,47929,48673,48718,48884",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "31143,47877,47924,47971,48713,48758,48921"
                     }
                 },
                 {
@@ -162,6 +126,23 @@
                         "endLines": "34,620,621,622,623,943,944,945,1908,5072,5075,5078,9333",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12,24",
                         "endOffsets": "1632,31845,31907,31969,32033,54494,54551,54605,130235,347640,347766,347894,599013"
+                    }
+                },
+                {
+                    "source": "E:\\Study\\UOttawa\\eighth year\\CEG4912\\project\\4912-project\\smart_agriculture_sys\\app\\build\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,323,405,509,618,738,838",
+                        "endColumns": "143,123,81,103,108,119,99,76",
+                        "endOffsets": "194,318,400,504,613,733,833,910"
+                    },
+                    "to": {
+                        "startLines": "1736,1745,1747,1748,1749,1750,1751,1857",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "110302,111109,111265,111347,111451,111560,111680,126602",
+                        "endColumns": "143,123,81,103,108,119,99,76",
+                        "endOffsets": "110441,111228,111342,111446,111555,111675,111775,126674"
                     }
                 },
                 {
@@ -435,6 +416,25 @@
                         "startOffsets": "98740",
                         "endColumns": "53",
                         "endOffsets": "98789"
+                    }
+                },
+                {
+                    "source": "E:\\Study\\UOttawa\\eighth year\\CEG4912\\project\\4912-project\\smart_agriculture_sys\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "810"
+                    },
+                    "to": {
+                        "startLines": "6039",
+                        "startColumns": "4",
+                        "startOffsets": "413700",
+                        "endLines": "6051",
+                        "endColumns": "12",
+                        "endOffsets": "414289"
                     }
                 }
             ]
