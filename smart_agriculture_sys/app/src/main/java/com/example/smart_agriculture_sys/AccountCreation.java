@@ -20,7 +20,7 @@ import com.google.firebase.storage.StorageReference;
 
 public class AccountCreation extends AppCompatActivity {
 
-    private EditText usernameText, passwordText, confirmPasswordText, emailText;
+    private EditText username, password, confirmPassword, email;
     private Button createAccountButton;
 
     @Override
@@ -28,10 +28,10 @@ public class AccountCreation extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_createaccount);
 
-        usernameText = findViewById(R.id.username_text);
-        passwordText = findViewById(R.id.password_text);
-        confirmPasswordText = findViewById(R.id.confirm_password_text);
-        emailText = findViewById(R.id.email_text);
+        username = findViewById(R.id.username);
+        password = findViewById(R.id.password);
+        confirmPassword = findViewById(R.id.confirm_password);
+        email = findViewById(R.id.email);
         createAccountButton = findViewById(R.id.create_account_button);
 
         DatabaseReference database = FirebaseDatabase.getInstance().getReference();
@@ -42,20 +42,20 @@ public class AccountCreation extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 // Get input values
-                String username = usernameText.getText().toString();
-                String password = passwordText.getText().toString();
-                String confirmPassword = confirmPasswordText.getText().toString();
-                String email = emailText.getText().toString();
+                String username_input = username.getText().toString();
+                String password_input = password.getText().toString();
+                String confirmPassword_input = confirmPassword.getText().toString();
+                String email_input = email.getText().toString();
 
                 // Check if all fields are filled in
-                if (username.equals("") || password.equals("") || confirmPassword.equals("") || email.equals("")) {
+                if (username_input.equals("") || password_input.equals("") || confirmPassword_input.equals("") || email_input.equals("")) {
                     // Display error message if any field is empty
                     Toast.makeText(AccountCreation.this, "Please fill in all fields", Toast.LENGTH_SHORT).show();
                 } else {
                     // Check if password and confirm password match
-                    if (password.equals(confirmPassword)) {
-                        Account account = new Account(username, password, email);
-                        accountsRef.child(username).setValue(account);
+                    if (password_input.equals(confirmPassword_input)) {
+                        Account account = new Account(username_input, password_input, email_input);
+                        accountsRef.child(username_input).setValue(account);
                         Intent intent = new Intent(AccountCreation.this, Redirecttologin.class);
                         startActivity(intent);
                     } else {

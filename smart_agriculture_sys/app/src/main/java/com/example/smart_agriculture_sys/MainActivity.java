@@ -8,11 +8,12 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+import android.text.TextUtils;
 
 
 public class MainActivity extends AppCompatActivity {
 
-    private EditText usernameText, passwordText;
+    private EditText username, password;
     private Button loginButton,createAccountButton;
 
 
@@ -22,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_loginpage);
 
-        usernameText = findViewById(R.id.username_text);
-        passwordText = findViewById(R.id.password_text);
+        username = findViewById(R.id.username);
+        password = findViewById(R.id.password);
         loginButton = (Button) findViewById(R.id.login_button);
         createAccountButton = (Button) findViewById(R.id.create_account_button);
 
@@ -31,15 +32,20 @@ public class MainActivity extends AppCompatActivity {
 
         loginButton.setOnClickListener(view -> {
 
-            String username = usernameText.getText().toString();
-            String password = passwordText.getText().toString();
+            String username_input = username.getText().toString();
+            String password_input = password.getText().toString();
             // Check if username and password are valid
-            if (isValid(username, password)) {
+            if (TextUtils.isEmpty(username.getText().toString()) || TextUtils.isEmpty(password.getText().toString())) {
+                Toast.makeText(MainActivity.this, "Please fill in all required information", Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(MainActivity.this, FunctionalApplication.class);
+                startActivity(intent);
+
+            } else if (isValid(username_input, password_input)) {
                 Toast.makeText(getApplicationContext(), "Login successful!", Toast.LENGTH_SHORT).show();
                 Intent intent = new Intent(MainActivity.this, FunctionalApplication.class);
                 startActivity(intent);
 
-            }else {
+            } else {
                 // If invalid, show an error message
                 Toast.makeText(getApplicationContext(), "Invalid username or password!", Toast.LENGTH_SHORT).show();
             }

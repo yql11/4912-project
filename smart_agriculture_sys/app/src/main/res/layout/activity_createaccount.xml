@@ -13,7 +13,7 @@
         android:gravity="center"/>
 
     <EditText
-        android:id="@+id/username_text"
+        android:id="@+id/username"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
@@ -21,28 +21,28 @@
         android:layout_below="@+id/welcome_text"/>
 
     <EditText
-        android:id="@+id/password_text"
+        android:id="@+id/password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/username_text"
+        android:layout_below="@+id/username"
         android:layout_marginTop="50dp"
         android:hint="Password"
         android:inputType="textPassword" />
 
     <EditText
-        android:id="@+id/confirm_password_text"
+        android:id="@+id/confirm_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/password_text"
+        android:layout_below="@+id/password"
         android:layout_marginTop="50dp"
         android:hint="Confirm Password"
         android:inputType="textPassword" />
 
     <EditText
-        android:id="@+id/email_text"
+        android:id="@+id/email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/confirm_password_text"
+        android:layout_below="@+id/confirm_password"
         android:layout_marginTop="50dp"
         android:hint="Email"
         android:inputType="textEmailAddress" />
@@ -51,7 +51,7 @@
         android:id="@+id/create_account_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/email_text"
+        android:layout_below="@+id/email"
         android:layout_marginTop="50dp"
         android:text="Create Account" />
 

@@ -2804,7 +2804,7 @@ id closest
 id collapseActionView
 id compress
 id confirm_button
-id confirm_password_text
+id confirm_password
 id constraint
 id container
 id content
@@ -2856,7 +2856,7 @@ id easeOut
 id east
 id edit_query
 id elastic
-id email_text
+id email
 id embed
 id end
 id endToStart
@@ -3018,7 +3018,7 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
-id password_text
+id password
 id password_toggle
 id path
 id pathRelative
@@ -3157,7 +3157,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
-id username_text
+id username
 id vertical_only
 id view_offset_helper
 id view_transition
