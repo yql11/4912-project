@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">341088203815-kt6l2p78p8nd9s900i2p20u6qrh3iunh.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smart-farm-21a6e-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">341088203815</string>
+    <string name="google_api_key" translatable="false">AIzaSyASx_N1BkIDQDSz4tD_OUwly5-UfcGhQwU</string>
+    <string name="google_app_id" translatable="false">1:341088203815:android:33c9071d8290150dd68a02</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyASx_N1BkIDQDSz4tD_OUwly5-UfcGhQwU</string>
+    <string name="google_storage_bucket" translatable="false">smart-farm-21a6e.appspot.com</string>
+    <string name="project_id" translatable="false">smart-farm-21a6e</string>
+</resources>

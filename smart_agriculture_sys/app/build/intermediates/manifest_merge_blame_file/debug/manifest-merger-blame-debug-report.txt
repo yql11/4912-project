@@ -1,0 +1,152 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.smart_agriculture_sys"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:4:5-66
+11-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:4:22-64
+12
+13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:24:5-79
+15-->[com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:24:22-76
+16
+17    <application
+17-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:5:5-30:19
+18        android:allowBackup="true"
+18-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.8.0] C:\Users\nealf\.gradle\caches\transforms-3\e0df3e6f8a443076d4da40a887d88364\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:fullBackupContent="@xml/backup_rules"
+22-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:8:9-54
+23        android:icon="@mipmap/ic_launcher"
+23-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:9:9-43
+24        android:label="@string/app_name"
+24-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:10:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:11:9-54
+26        android:supportsRtl="true"
+26-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:12:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.Smart_agriculture_sys" >
+28-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:13:9-59
+29        <activity
+29-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:15:9-24:20
+30            android:name="com.example.smart_agriculture_sys.MainActivity"
+30-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:16:13-74
+31            android:exported="true" >
+31-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:17:13-36
+32            <intent-filter>
+32-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:18:13-23:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:19:17-69
+33-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:19:25-66
+34
+35                <category android:name="android.intent.category.DEFAULT" />
+35-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:20:17-76
+35-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:20:27-73
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:22:17-77
+36-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:22:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity android:name="com.example.smart_agriculture_sys.AccountCreation" />
+39-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:25:9-52
+39-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:25:19-50
+40        <activity android:name="com.example.smart_agriculture_sys.Redirecttologin" />
+40-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:26:9-52
+40-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:26:19-50
+41        <activity android:name="com.example.smart_agriculture_sys.FunctionalApplication" />
+41-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:27:9-58
+41-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:27:19-56
+42        <activity android:name="com.example.smart_agriculture_sys.Withdrawdata" />
+42-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:28:9-49
+42-->E:\Study\UOttawa\eighth year\CEG4912\project\4912-project\smart_agriculture_sys\app\src\main\AndroidManifest.xml:28:19-47
+43
+44        <service
+44-->[com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:28:9-34:19
+45            android:name="com.google.firebase.components.ComponentDiscoveryService"
+45-->[com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:29:13-84
+46            android:directBootAware="true"
+46-->[com.google.firebase:firebase-common:20.2.0] C:\Users\nealf\.gradle\caches\transforms-3\5e69d7cbd2a4af71e5dbcb848af3e2a5\transformed\firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+47            android:exported="false" >
+47-->[com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:30:13-37
+48            <meta-data
+48-->[com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+49                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+49-->[com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+50                android:value="com.google.firebase.components.ComponentRegistrar" />
+50-->[com.google.firebase:firebase-database:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\3d59ce81c83c35874202fc19d9657407\transformed\firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+51            <meta-data
+51-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\22dd61885f0b22ddef29ae6f24b59d33\transformed\firebase-storage-20.1.0\AndroidManifest.xml:32:13-34:85
+52                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+52-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\22dd61885f0b22ddef29ae6f24b59d33\transformed\firebase-storage-20.1.0\AndroidManifest.xml:33:17-107
+53                android:value="com.google.firebase.components.ComponentRegistrar" />
+53-->[com.google.firebase:firebase-storage:20.1.0] C:\Users\nealf\.gradle\caches\transforms-3\22dd61885f0b22ddef29ae6f24b59d33\transformed\firebase-storage-20.1.0\AndroidManifest.xml:34:17-82
+54        </service>
+55
+56        <activity
+56-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\nealf\.gradle\caches\transforms-3\2ba4c96952e55ca9fa36d0ff5ae7a276\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+57            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+57-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\nealf\.gradle\caches\transforms-3\2ba4c96952e55ca9fa36d0ff5ae7a276\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+58            android:exported="false"
+58-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\nealf\.gradle\caches\transforms-3\2ba4c96952e55ca9fa36d0ff5ae7a276\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+59            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+59-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\nealf\.gradle\caches\transforms-3\2ba4c96952e55ca9fa36d0ff5ae7a276\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+60
+61        <provider
+61-->[com.google.firebase:firebase-common:20.2.0] C:\Users\nealf\.gradle\caches\transforms-3\5e69d7cbd2a4af71e5dbcb848af3e2a5\transformed\firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+62            android:name="com.google.firebase.provider.FirebaseInitProvider"
+62-->[com.google.firebase:firebase-common:20.2.0] C:\Users\nealf\.gradle\caches\transforms-3\5e69d7cbd2a4af71e5dbcb848af3e2a5\transformed\firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+63            android:authorities="com.example.smart_agriculture_sys.firebaseinitprovider"
+63-->[com.google.firebase:firebase-common:20.2.0] C:\Users\nealf\.gradle\caches\transforms-3\5e69d7cbd2a4af71e5dbcb848af3e2a5\transformed\firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+64            android:directBootAware="true"
+64-->[com.google.firebase:firebase-common:20.2.0] C:\Users\nealf\.gradle\caches\transforms-3\5e69d7cbd2a4af71e5dbcb848af3e2a5\transformed\firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+65            android:exported="false"
+65-->[com.google.firebase:firebase-common:20.2.0] C:\Users\nealf\.gradle\caches\transforms-3\5e69d7cbd2a4af71e5dbcb848af3e2a5\transformed\firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+66            android:initOrder="100" />
+66-->[com.google.firebase:firebase-common:20.2.0] C:\Users\nealf\.gradle\caches\transforms-3\5e69d7cbd2a4af71e5dbcb848af3e2a5\transformed\firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+67
+68        <meta-data
+68-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\nealf\.gradle\caches\transforms-3\fab66bed9b33b2e4d61eb21a1ef36d84\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+69            android:name="com.google.android.gms.version"
+69-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\nealf\.gradle\caches\transforms-3\fab66bed9b33b2e4d61eb21a1ef36d84\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+70            android:value="@integer/google_play_services_version" />
+70-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\nealf\.gradle\caches\transforms-3\fab66bed9b33b2e4d61eb21a1ef36d84\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+71
+72        <provider
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nealf\.gradle\caches\transforms-3\3ff3f5f17df23017b78bc9ce01867f07\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+73            android:name="androidx.startup.InitializationProvider"
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nealf\.gradle\caches\transforms-3\3ff3f5f17df23017b78bc9ce01867f07\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+74            android:authorities="com.example.smart_agriculture_sys.androidx-startup"
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nealf\.gradle\caches\transforms-3\3ff3f5f17df23017b78bc9ce01867f07\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+75            android:exported="false" >
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nealf\.gradle\caches\transforms-3\3ff3f5f17df23017b78bc9ce01867f07\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+76            <meta-data
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nealf\.gradle\caches\transforms-3\3ff3f5f17df23017b78bc9ce01867f07\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nealf\.gradle\caches\transforms-3\3ff3f5f17df23017b78bc9ce01867f07\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+78                android:value="androidx.startup" />
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\nealf\.gradle\caches\transforms-3\3ff3f5f17df23017b78bc9ce01867f07\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+79            <meta-data
+79-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\nealf\.gradle\caches\transforms-3\236998fe8f3916de83ad9b541d05f5ff\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+80                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+80-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\nealf\.gradle\caches\transforms-3\236998fe8f3916de83ad9b541d05f5ff\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+81                android:value="androidx.startup" />
+81-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\nealf\.gradle\caches\transforms-3\236998fe8f3916de83ad9b541d05f5ff\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+82        </provider>
+83    </application>
+84
+85</manifest>
